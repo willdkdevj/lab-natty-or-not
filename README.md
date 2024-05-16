@@ -1,51 +1,24 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do Projeto Podcast Backend Reloaded
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- [ChatGPT](https://chat.openai.com/) 
+- [Tess AI](https://pareto.io/pt-br/tess-ai/)
+- [ElevenLabs](https://beta.elevenlabs.io/)
+- [Capcut](https://www.capcut.com/pt-br/)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+- Roteiro gerado via Chatgpt
+- Audio gerado pela ElevenLabs
+- Tess AI para gerar imagens de capas
+- Capcut para tratar aúdio e adicionar efeitos e sons de fundo
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+- Podcast publicado no [Youtube](https://www.youtube.com/watch?v=2qekH0OVRD0)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Criar o podcast utilizando ferramentas de IA foi uma experiência empolgante! Desde o planejamento até a edição final, cada etapa foi otimizada com tecnologias de IA generativa. Com a IA, consegui gerar roteiros dinâmicos, ajustar a qualidade do áudio de maneira profissional e até adicionar trilhas sonoras personalizadas. A facilidade e rapidez com que tudo foi integrado me permitiu focar no conteúdo e na criatividade, resultando em um episódio envolvente sobre arquitetura de software.
